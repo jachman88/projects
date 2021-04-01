@@ -1,4 +1,4 @@
-#Password Generator
+#Password Generator build using Python 2
 
 import random
 import string
