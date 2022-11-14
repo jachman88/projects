@@ -9,12 +9,6 @@ from datetime import datetime
 
 #Target host defined
 target = input("please enter in a target: ")
-if len(sys.argv) == 2:
-	target = socket.gethostbyname(sys.argv[1]
-else:
-	print("Invalid amount of arguments.")
-
-print(target)
 
 #Banner
 print('-' * 50)
