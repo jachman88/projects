@@ -1,4 +1,4 @@
-#This is the a basic cipher written using functions/methods
+#This is the a basic cipher written in Python2 written using functions/methods
 #This will take a string of text and a key from a user
 #And it will encrypt or decrypt the users message
 
